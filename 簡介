@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<center><a href="https://mike6989.github.io/-/">回首頁</a><center>
+<table border=2>
+<tr>
+<th colspan="3">作業1:HTML表格</th>
+</tr>
+<tr>
+<td rowspan="3"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiO9XF4W2T2683k2Adl815NLnk7s1YFhmpAHo4EHHSNQ&s" width="100" height="100">
+<td>班級</td>
+<td>資工二甲</td>
+</tr>
+<tr>
+<td>姓名</td>
+<td>陳奕銓</td>
+</tr>
+<td>學號</td>
+<td>1111032039</td>
+</table >
+
+</body>
+</html>
